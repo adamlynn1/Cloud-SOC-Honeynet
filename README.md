@@ -35,7 +35,8 @@ To address these security risks, security controls were applied to harden the en
 
 
 ## Attack Maps Before Hardening / Security Controls
-![NSG Allowed Inbound Malicious Flows](https://i.imgur.com/1qvswSX.png)<br>
+![NSG Allowed Inbound Malicious Flows](![image](https://github.com/adamlynn1/Cloud-SOC-Honeynet/assets/135334343/aca4d34e-d7ef-40fd-9e02-709e85670e22)
+)<br>
 ![Linux Syslog Auth Failures](https://i.imgur.com/G1YgZt6.png)<br>
 ![Windows RDP/SMB Auth Failures](https://i.imgur.com/ESr9Dlv.png)<br>
 
