@@ -77,3 +77,8 @@ The results post-implementation showed a significant reduction in security event
 
 If the network resources were heavily utilized by regular users, it is important to consider that implementing the security controls might have resulted in an increased number of security events and alerts during the 24-hour period.
 
+
+## Credits 
+
+This project was based on a course developed by Josh Madakor which can be found here:
+(https://www.leveldcareers.com/cyber-security-course)
